@@ -9,7 +9,7 @@ public class TimerRoute extends RouteBuilder{
 		// TODO Auto-generated method stub
 		
 	from("timer://foo?fixedRate=true&period=60000")
-	.log("'Timer Triggereddd ################################");
+	.log("'Timer Triggereddd ############################################");
 	
 	}
 	
