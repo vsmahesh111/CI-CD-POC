@@ -1,4 +1,4 @@
-daemonize -E BUILD_ID=dontKillMe run.sh
+EXPORT BUILD_ID=dontKillMe run.sh
 mvn spring-boot:run
 
 
