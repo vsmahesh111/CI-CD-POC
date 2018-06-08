@@ -1,3 +1,2 @@
-
-start cmd.exe /k run.sh
+start cmd.exe /k mvn spring-boot:run
 
