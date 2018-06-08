@@ -1,2 +1,3 @@
-start cmd.exe 
-mvn spring-boot:run
+start cmd.exe /k mvn spring-boot:run
+
+
