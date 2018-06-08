@@ -1,4 +1,5 @@
-at now + 1 minutes
+daemonize -E BUILD_ID=dontKillMe run.sh
+mvn spring-boot:run
 
 
 
