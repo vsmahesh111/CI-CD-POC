@@ -12,11 +12,6 @@ public class TimerRoute extends RouteBuilder{
 	.log("'Timer Triggered ##########");
 	
 	}
-
-private void display()
-{
-System.out.println("Display me ");
-}	
 	
 
 }
