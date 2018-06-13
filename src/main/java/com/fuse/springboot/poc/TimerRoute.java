@@ -13,7 +13,10 @@ public class TimerRoute extends RouteBuilder{
 	
 	}
 
-	
+private void display()
+{
+System.out.println("Display me ");
+}	
 	
 
 }
