@@ -9,7 +9,7 @@ public class TimerRoute extends RouteBuilder{
 		
 		
 	from("timer://foo?fixedRate=true&period=60000")
-	.log("'Timer Triggered ##########");
+	.log("'Timer Triggered #####################");
 	
 	}
 	
