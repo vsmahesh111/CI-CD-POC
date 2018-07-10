@@ -19,7 +19,7 @@ public class TimerRoute extends RouteBuilder{
 private void display()
 {
 
-System.out.println("SOnar Qube demo")
+System.out.println("SOnar Qube demo");
 
 }
 	
